@@ -1,17 +1,14 @@
-<h1 align="center">🎭 Parzival</h1>
+# 👋 Hi, I'm Parzival
 
-<p align="center"><em>Face hidden. Output public.</em></p>
+Senior dev who has been doing this long enough to know that "it works on my machine" is not a deployment strategy.
 
----
+I go by a handle because my code is public but the rest of me is not. Nothing mysterious about it, I just like keeping work-me and internet-me in separate tabs.
 
-Anonymous builder — I ship things, then step back into the dark.
+A few things that are reliably true:
 
-- 🧩 &nbsp;Independent developer who likes hard problems and clean systems
-- 🌙 &nbsp;I let the work speak; the name behind it stays a mystery
-- 📡 &nbsp;Find me through what I build, not who I am
+- 🧑‍💻 I write code for a living and read code for fun (okay, fine, sometimes for a living too)
+- 🧠 I have strong opinions about naming things, held loosely enough to survive code review
+- 🦆 My most effective debugger is a walk around the block and a rubber duck
+- 🏗️ That TODO comment from three years ago? Load-bearing now.
 
-<!--
-  Parzevall/Parzevall is a *special* repository: this README.md is what
-  renders on your GitHub profile at https://github.com/Parzevall
-  Edit this file anytime to reshape your public identity.
--->
+If you found something I shipped and it did not fall over, that was the plan.
