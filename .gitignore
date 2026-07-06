@@ -1,0 +1,11 @@
+# Claude Code local context (not part of the published profile)
+.claude/
+CLAUDE.md
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
