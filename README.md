@@ -8,7 +8,7 @@ A few things that are reliably true:
 
 - 🧑‍💻 I write code for a living and read code for fun (okay, fine, sometimes for a living too)
 - 🧠 I have strong opinions about naming things, held loosely enough to survive code review
-- 🦆 My most effective debugger is a walk around the block and a rubber duck
+- ☕ Powered by coffee and the quiet suspicion that the bug was mine all along
 - 🏗️ That TODO comment from three years ago? Load-bearing now.
 
 If you found something I shipped and it did not fall over, that was the plan.
