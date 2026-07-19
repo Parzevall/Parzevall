@@ -25,7 +25,7 @@
 
 <br><br>
 
-<sub>I go by a handle because my code is public but the rest of me is not.
+<sub>I go by a handle because my code is public but the rest of me is not..
 Nothing mysterious about it, I just like keeping work-me and internet-me in separate tabs.</sub>
 
 <sub>If you found something I shipped and it did not fall over, that was the plan😁.</sub>
